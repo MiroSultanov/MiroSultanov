@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiroSultanov
 - 👀 I’m interested in programming with Python and GO, Machine Learning, Artificial Intelligence
-- 🌱 I’m currently learning Software Engineering with Python
+- 🌱 I’m currently working in a cyber security company.
 - 💞️ I’m looking to collaborate with experienced python programmers.
 - 📫 How to reach me - my email is mirsul@abv.bg
 
